@@ -1,5 +1,3 @@
-!pip install mtcnn gdown
-
 from math import sqrt
 from numpy import load, asarray, zeros, ones, savez_compressed
 from numpy.random import randn, randint
